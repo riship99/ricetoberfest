@@ -42,6 +42,12 @@ ___
 `Wallpaper: Hosaka Ono-Sendai Cyberspace 7 by Kyle Tierce: http://www.tierce.design`
 
 ___
+[riship99](https://github.com/riship99)
+![riship99](https://imgur.com/gQBynQD)
+
+`OS/Distro: Ubuntu`
+
+`Window Manager: i3`
 
 </p>
 
