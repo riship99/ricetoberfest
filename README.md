@@ -43,6 +43,8 @@ ___
 
 ___
 [riship99](https://github.com/riship99)
+![djc2702](https://i.imgur.com/uwIzXdT.png)
+
 ![riship99](https://imgur.com/gQBynQD)
 
 `OS/Distro: Ubuntu`
